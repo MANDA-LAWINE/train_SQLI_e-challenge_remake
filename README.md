@@ -1,6 +1,3 @@
-# Vehicles
-SQLi e-Challenge 2017 HackerRank Vehicles Problem Solution.
-
 The aim of this exercise is to design and write a code to pass all tests.
 
 A train is made of different types of wagons: head, passenger, restaurant, and cargo.
